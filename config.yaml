@@ -1,0 +1,49 @@
+replications:
+  - name: dev3
+    local: "/Users/davell/Documents/github/sx1262/lora/"
+    remote: "dev3"
+    remote_dir: "/home/appa/delliott/lora"
+    min_interval: 5
+    delete: false
+  - name: Z11
+    local: "/Users/davell/Documents/github/sx1262/lora/"
+    remote: "Z11"
+    remote_dir: "/home/appa/delliott/lora"
+    min_interval: 5
+    delete: false
+  - name: Z12
+    local: "/Users/davell/Documents/github/sx1262/lora/"
+    remote: "Z12"
+    remote_dir: "/home/appa/delliott/lora"
+    min_interval: 5
+    delete: false
+  - name: Z13
+    local: "/Users/davell/Documents/github/sx1262/lora/"
+    remote: "Z13"
+    remote_dir: "/home/appa/delliott/lora"
+    min_interval: 5
+    delete: false
+  - name: Z14
+    local: "/Users/davell/Documents/github/sx1262/lora/"
+    remote: "Z14"
+    remote_dir: "/home/appa/delliott/lora"
+    min_interval: 5
+    delete: false
+  - name: Z15
+    local: "/Users/davell/Documents/github/sx1262/lora/"
+    remote: "Z15"
+    remote_dir: "/home/appa/delliott/lora"
+    min_interval: 5
+    delete: false
+  - name: Z16
+    local: "/Users/davell/Documents/github/sx1262/lora/"
+    remote: "Z16"
+    remote_dir: "/home/appa/delliott/lora"
+    min_interval: 5
+    delete: false
+  - name: Z17
+    local: "/Users/davell/Documents/github/sx1262/lora/"
+    remote: "Z17"
+    remote_dir: "/home/appa/delliott/lora"
+    min_interval: 5
+    delete: false
